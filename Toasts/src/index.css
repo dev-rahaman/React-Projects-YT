@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0a192f;
+}
+
+button {
+  width: 120px;
+  color: #fff;
+  background-color: #fc7356;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}

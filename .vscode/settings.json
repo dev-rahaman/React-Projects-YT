@@ -1,0 +1,44 @@
+// {
+//   "workbench.colorCustomizations": {
+//     "titleBar.activeBackground": "#8f923b",
+//     "titleBar.activeForeground": "#ffffff",
+//     "titleBar.border": "#ff0000",
+
+//     "commandCenter.background": "#ff0000",
+//     "commandCenter.foreground": "#ffffff",
+//     "commandCenter.border": "#33ff00",
+//     "commandCenter.activeBackground": "#ae00ff",
+//     "commandCenter.activeBorder": "#00eaff",
+
+//     "activityBar.background": "#171527",
+//     "activityBar.activeBackground": "#fff",
+//     "activityBar.foreground": "#ff7e5d",
+//     "activityBar.inactiveForeground": "#fff",
+
+//     "activityBarBadge.background": "#00ff2a",
+//     "activityBarBadge.foreground": "#15202b",
+
+//     "sideBar.background": "#3b4040",
+//     "sideBar.foreground": "#ffffff",
+//     "sideBar.border": "#b619ac",
+//     "sideBarSectionHeader.background": "#ff0000",
+//     "sideBarSectionHeader.foreground": "#ffffff",
+//     "sideBarTitle.foreground": "#00d9ff",
+
+//     "sash.hoverBorder": "#1100ff",
+
+//     "tab.activeBackground": "#583c3c",
+//     "tab.activeForeground": "#a2ff00",
+//     "tab.hoverBackground": "#cbe28f",
+//     "tab.hoverForeground": "#000000",
+
+//     "editor.background": "#212130",
+//     "editor.selectionBackground": "#ff0000",
+
+//     "statusBar.background": "#392d2d",
+//     "statusBar.foreground": "#ffffff",
+//     "statusBarItem.hoverBackground": "#0400ff",
+//     "statusBarItem.remoteBackground": "#fff70091",
+//     "statusBarItem.remoteForeground": "#00ffb7"
+//   }
+// }
